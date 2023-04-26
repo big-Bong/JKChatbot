@@ -1,3 +1,4 @@
+#Creates embeddings from local documents (PDF) and stores in a vector database
 import os
 import re
 

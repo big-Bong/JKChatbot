@@ -1,3 +1,5 @@
+#Calls ChatGPT API using langchain for prompt and context chaining
+
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts.chat import (ChatPromptTemplate,

@@ -1,3 +1,4 @@
+#API endpoint for talking with ChatGPT
 import requests
 from flask import Flask, request
 
